@@ -100,7 +100,7 @@ header .icons a:hover{
     display: flex;
     align-items: center;
     min-width: 100vh;
-    background: url(../Assets/pngtree-simple-pink-background-hand-painted-background-flower-background-picture-image_909044.jpg) no-repeat;
+    background: url(Assets/pngtree-simple-pink-background-hand-painted-background-flower-background-picture-image_909044.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
